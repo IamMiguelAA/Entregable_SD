@@ -4,7 +4,12 @@
 ###############################Constantes###############################
 integrante1 = "Alvarez Garcia, Miguel Angel"
 integrante2 = "Galvez Guerrero, Jesus"
+integrante3 = "Gomez Gonzalez, Ana"
 
-print("El entregable de SD se ha realizado por el siguiente grupo: ")
-print(" - " + integrante1)
-print(" - " + integrante2)
+###############################Main###############################
+
+if __name__ == "__main__":
+    print("El entregable de SD se ha realizado por el siguiente grupo: ")
+    print(" - " + integrante1)
+    print(" - " + integrante2)
+    print(" - " + integrante3)
