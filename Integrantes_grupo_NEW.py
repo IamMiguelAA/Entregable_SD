@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Programa que imprime por pantalla el nombre de los integrantes de grupo que realiza el entregable
+# El mismo de antes pero con otro nombre.  
 
 ###############################Constantes###############################
 integrante1 = "Alvarez Garcia, Miguel Angel"
